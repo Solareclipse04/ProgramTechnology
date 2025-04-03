@@ -19,6 +19,7 @@ namespace GuessNumber
         {
             _iNumberGenerator = iNumberGenerator;
             _iInputAction = iInputAction;
+            int a;
         }
         public void Run()
         {
